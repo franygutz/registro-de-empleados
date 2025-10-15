@@ -1,6 +1,6 @@
 # Gestión de Cargos — JPA/Hibernate (Java SE)
 
-CRUD mínimo de **Cargo** usando **Jakarta Persistence (JPA)** con **Hibernate ORM 6** y **Hibernate Validator 9** en **Java SE** (sin contenedor). Incluye una **prueba rápida** para evidenciar que corre.
+CRUD mínimo de **Cargo** usando **Jakarta Persistence (JPA)** con **Hibernate ORM 6** y **Hibernate Validator 9** en **Java SE**.
 
 ---
 
